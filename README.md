@@ -18,5 +18,3 @@ I'm expanding my skills beyond design into **coding and AI**:
 - [LinkedIn](https://www.linkedin.com/in/athinalavoie/)
 
 
----
-💡 *Pinned repositories below highlight some of my projects and experiments.*
