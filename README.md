@@ -15,7 +15,7 @@ I'm expanding my skills beyond design into **coding and AI**:
 - 🤖 **Creative Tech**: Exploring AI in music, visuals, and interactive media
 
 ## 🌍 Find me online
-- LinkedIn: [your-linkedin-link-here](https://www.linkedin.com/in/athinalavoie/](https://www.linkedin.com/in/athinalavoie/)]  
+- [LinkedIn](https://www.linkedin.com/in/athinalavoie/](https://www.linkedin.com/in/athinalavoie/)]  
 
 ---
 💡 *Pinned repositories below highlight some of my projects and experiments.*
